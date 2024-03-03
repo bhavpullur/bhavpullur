@@ -25,4 +25,4 @@ I'm currently pursuing my degree in India, where I'm dedicated to honing my fron
 
 ## 📫 Contact
 
- For a quick chat, feel free to join me on [LinkedIn]([https://www.linkedin.com/in/madhavmadupu/](https://www.linkedin.com/in/bhavana-pullur-836115249/)). 
+ For a quick chat, feel free to join me on [LinkedIn]([https://www.linkedin.com/in/bhavpullur/](https://www.linkedin.com/in/bhavana-pullur-836115249/)). 
