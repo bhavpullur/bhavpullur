@@ -1,4 +1,4 @@
-# Hello, I am <a  href="https://www.linkedin.com/in/bhavpullur/">Bhavna Pullur</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+# Hello, I am <a  href="https://www.linkedin.com/in/bhavpullur/">Bhavana Pullur</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 I'm a 20-year-old frontend developer based in India, with a passion for crafting delightful user experiences. 
 
