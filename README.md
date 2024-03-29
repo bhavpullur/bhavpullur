@@ -4,7 +4,7 @@ I'm a  frontend developer ,in India, with a passion for crafting delightful user
 
 ## 🔭 Current Focus 
 
-I'm currently pursuing my degree in India, where I'm dedicated to honing my frontend skills. Here's what I'm currently focused on:
+I'm currently pursuing my Under-Grad in India of Computer Science and Engineering. Here's what I'm currently focused on:
 
 - Developing and Learning Next JS.
 - Learning Data Structures and Algorithms in Java.
@@ -18,11 +18,6 @@ I'm currently pursuing my degree in India, where I'm dedicated to honing my fron
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavpullur&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-## ✨ Fun Facts 
-
-- I'm a huge fan of creating interactive web experiences.
-- In my spare time, I enjoy experimenting with new frontend technologies.
-- I have a keen interest in user psychology and how it influences design decisions.
 
 ## 📫 Contact
 
