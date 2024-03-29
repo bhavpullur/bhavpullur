@@ -1,15 +1,16 @@
 # Hello, I am <a  href="https://www.linkedin.com/in/bhavpullur/">Bhavana Pullur</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
-I'm a 20-year-old frontend developer based in India, with a passion for crafting delightful user experiences. 
+I'm a  frontend developer ,in India, with a passion for crafting delightful user experiences. 
 
 ## 🔭 Current Focus 
 
 I'm currently pursuing my degree in India, where I'm dedicated to honing my frontend skills. Here's what I'm currently focused on:
 
-- Developing engaging user interfaces with React and Vue.js.
-- Exploring the world of frontend frameworks like Angular and Bootstrap.
-- Diving into mobile app development with Flutter and Dart.
-- Constantly learning and experimenting to improve my craft.
+- Developing and Learning Next JS.
+- Learning Data Structures and Algorithms in Java.
+- Also loved to work on UI-UX desgingings.
+- Constantly learning and experimenting and exploring new things that come in my way.
+
 
 ## My Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=bhavpullur&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
