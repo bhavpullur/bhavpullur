@@ -9,7 +9,7 @@ I'm currently pursuing my Under-Grad in India of Computer Science and Engineerin
 - Developing my front end skills and Learning Next JS , TailWind CSS , TypeScript.
 - Learning Data Structures and Algorithms in Java.
 - Also loved to work on UI-UX desgingings.
-- Constantly learning and experimenting and exploring new things that come in my way.
+- Constantly learning , experimenting and exploring new things that come in my way.
 
 
 ## My Github Stats
