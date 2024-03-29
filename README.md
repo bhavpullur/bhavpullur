@@ -6,7 +6,7 @@ I'm a  frontend developer ,in India, with a passion for crafting delightful user
 
 I'm currently pursuing my Under-Grad in India of Computer Science and Engineering. Here's what I'm currently focused on:
 
-- Developing and Learning Next JS.
+- Developing my front end skills and Learning Next JS , TailWind CSS , TypeScript.
 - Learning Data Structures and Algorithms in Java.
 - Also loved to work on UI-UX desgingings.
 - Constantly learning and experimenting and exploring new things that come in my way.
